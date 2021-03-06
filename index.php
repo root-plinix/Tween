@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--Coded By RootPlinix And An Unknown Person Whole credit are not goes to RootPlinix.-->
+<!--Coded By Masud Rana Sawon Whole credit are not goes to me.-->
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
