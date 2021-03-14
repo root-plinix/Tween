@@ -5,9 +5,8 @@ Tween is a facebook phishing page design.
 
 ## Installation
 
+```
 git clone https://github.com/root-plinix/Tween
-
-```bash
 cd Tween
 ```
 
